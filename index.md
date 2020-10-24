@@ -1,4 +1,3 @@
-# John Grando
 ## Data Science Portfolio
 
 ### About Me
