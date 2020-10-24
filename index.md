@@ -25,8 +25,8 @@ I, like many others, have found much value in the book [Forecasting: Principles 
 ---  
 This is a comprehensive report that explores and transforms a set of survey questions about commercial building characteristics, extracts the most impactful features pertaining to electrical and natural gas consumption, and uses those features to create a deep feed-forward neural network prediction algorithm for each fuel source.  
 
-[Full Report](https://github.com/john-grando/john-grando.github.io/blob/master/Documents/CapstoneFullReport.pdf)  
-[Summary](https://github.com/john-grando/john-grando.github.io/blob/master/Documents/CapstoneSummary.pdf)  
+[Full Report Download](https://github.com/john-grando/john-grando.github.io/raw/master/Documents/CapstoneFullReport.pdf) Warning: the file size is large and can cause your browser to freeze  
+[Summary Download](https://github.com/john-grando/john-grando.github.io/raw/master/Documents/CapstoneSummary.pdf)  
 
 ---  
 #### New York City Energy Consumption Visualized  
