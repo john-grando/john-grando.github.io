@@ -1,16 +1,19 @@
 ## Data Science Portfolio
 
 ### About Me
-I'm a lifelong student who is passionate about data science. I have over 6 years of experience performing data analyses, applying transformations, and building machine learning models to provide business intelligence solutions. Additionally, I have been working in the commercial building energy and sustainability sector.
+I'm a lifelong student who is passionate about data science. I have over 6 years of experience performing data analyses, applying transformations, and building machine learning models to provide business intelligence solutions. Additionally, I have been working in the commercial building energy and sustainability sector for over 11 years.
 
 ---  
 #### EIA Data Analysis and Prediction
 ---  
 I am currently developing tools to extract information from the U.S. Energy Information Administration (EIA) [bulk download feature](https://www.eia.gov/opendata/bulkfiles.php), and make some initial predictions to gain insight.  
 
-[ETL Details - PySpark](https://github.com/john-grando/eia-data-analysis/tree/master/app/PreProcess)  
-[ETL Output Analysis](https://github.com/john-grando/eia-data-analysis/blob/master/app/Notebooks/total_energy.ipynb)  
-[Net Generation Analysis](https://john-grando.github.io/EIADataPages/total_energy_prediction.html)
+* Analyses and Machine Learning Models  
+  [Prediction of Total Electrical Net Generation From Coal](https://john-grando.github.io/EIADataPages/total_energy_prediction.html)
+
+* Pre-Processing and Data Engineering  
+  [ETL Pipelines - PySpark](https://github.com/john-grando/eia-data-analysis/tree/master/app/PreProcess)  
+  [Total Energy Dataset](https://github.com/john-grando/eia-data-analysis/blob/master/app/Notebooks/total_energy.ipynb)  
 
 ---
 #### Modification of the Time Series Cross Validation function (tscv) in the forecast R package
