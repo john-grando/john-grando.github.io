@@ -9,9 +9,9 @@ I'm a lifelong student who is passionate about data science. I have over 6 years
 I am currently developing tools to extract information from the U.S. Energy Information Administration (EIA) [bulk download feature](https://www.eia.gov/opendata/bulkfiles.php), and make some initial predictions to gain insight.  
 
 * Analyses and Machine Learning Models  
+  [Total Energy Dataset Preliminary Check](https://nbviewer.jupyter.org/github/john-grando/eia-data-analysis/blob/master/app/Notebooks/total_energy_check.ipynb)  
   [Prediction of Total Electrical Net Generation From Coal](https://john-grando.github.io/EIADataPages/total_energy_prediction.html)  
-  [State and Fuel Type Summaries From Plant Level Data](https://nbviewer.jupyter.org/github/john-grando/eia-data-analysis/blob/master/app/Notebooks/electricity_net_generation_summary.ipynb)  
-  [Total Energy Dataset Preliminary Check](https://nbviewer.jupyter.org/github/john-grando/eia-data-analysis/blob/master/app/Notebooks/total_energy_check.ipynb)
+  [State and Fuel Type Summaries From Plant Level Data](https://nbviewer.jupyter.org/github/john-grando/eia-data-analysis/blob/master/app/Notebooks/electricity_net_generation_summary.ipynb)
 
 * Pre-Processing and Data Engineering  
   [ETL Pipelines - PySpark](https://github.com/john-grando/eia-data-analysis/tree/master/app/PreProcess)  
