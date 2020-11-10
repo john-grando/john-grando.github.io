@@ -10,10 +10,11 @@ I am currently developing tools to extract information from the U.S. Energy Info
 
 * Analyses and Machine Learning Models  
   [Prediction of Total Electrical Net Generation From Coal](https://john-grando.github.io/EIADataPages/total_energy_prediction.html)
+  [State and Fuel Type Summaries From Plant Level Data](https://nbviewer.jupyter.org/github/john-grando/eia-data-analysis/blob/master/app/Notebooks/electricity_net_generation_summary.ipynb)
 
 * Pre-Processing and Data Engineering  
   [ETL Pipelines - PySpark](https://github.com/john-grando/eia-data-analysis/tree/master/app/PreProcess)  
-  [Total Energy Dataset](https://github.com/john-grando/eia-data-analysis/blob/master/app/Notebooks/total_energy.ipynb)  
+  [Total Energy Dataset](https://nbviewer.jupyter.org/github/john-grando/eia-data-analysis/blob/master/app/Notebooks/total_energy_check.ipynb)  
 
 ---
 #### Modification of the Time Series Cross Validation function (tscv) in the forecast R package
