@@ -11,7 +11,7 @@ I am currently developing tools to extract information from the U.S. Energy Info
 * Analyses and Machine Learning Models  
   [Total Energy Dataset Preliminary Check](https://nbviewer.jupyter.org/github/john-grando/eia-data-analysis/blob/master/app/Notebooks/total_energy_check.ipynb?flush_cache=true)  
   [Prediction of Total Electrical Net Generation From Coal](https://john-grando.github.io/EIADataPages/total_energy_prediction.html)  
-  [State and Fuel Type Summaries From Plant Level Data](https://nbviewer.jupyter.org/github/john-grando/eia-data-analysis/blob/master/app/Notebooks/electricity_net_generation_summary.ipynb?flush_cache=true)
+  [State and Fuel Type Summaries From Plant Level Data](https://john-grando.github.io/EIADataPages/electricity_net_generation_summary.html)
 
 * Pre-Processing and Data Engineering  
   [ETL Pipelines - PySpark](https://github.com/john-grando/eia-data-analysis/tree/master/app/PreProcess)  
